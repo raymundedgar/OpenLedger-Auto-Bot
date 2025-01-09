@@ -21,7 +21,7 @@ An automated bot for claiming daily rewards on OpenLedger Testnet.
 1. Clone this repository
 
 ```bash
-git clone https://github.com/airdropinsiders/OpenLedger-Auto-Bot.git
+git clone https://github.com/raymundedgar/OpenLedger-Auto-Bot.git
 cd OpenLedger-Auto-Bot
 ```
 
@@ -33,7 +33,7 @@ npm install
 
 ## Getting Started
 
-1. Register on [OpenLedger Testnet](https://testnet.openledger.xyz/?referral_code=ikurpd77ae)
+1. Register on [OpenLedger Testnet](https://testnet.openledger.xyz/?referral_code=773nbiosqy)
 
 2. Get your JWT Token
 
