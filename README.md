@@ -87,3 +87,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This bot is for educational purposes only. Use it at your own risk. The developer is not responsible for any account-related issues or potential losses.
+Source : https://github.com/Galkurta/
